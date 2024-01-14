@@ -1,6 +1,5 @@
 # cjn278677.github.io
 Carl Justine R. Navarroza
-# The Renaisance, The revival of the forgoten antiquity
-# "It Is Better To Be Feared Than Loved, If One Cannot Be Both"
-![alt text](https://assets.theschooloflife.com/wp-content/uploads/2022/01/27015034/machiavelli.jpg)
-### Machiavelli was a 16th century Florentine philosopher known primarily for his political ideas. His two most famous philosophical books, The Prince and the Discourses on Livy, were published after his death.
+# _The Renaisance, The revival of the forgoten antiquity_
+### **What was the Renaissance? The Renaissance was a fervent period of European cultural, artistic, political and economic “rebirth” following the Middle Ages. Generally described as taking place from the 14th century to the 17th century, the Renaissance promoted the rediscovery of classical philosophy, literature and art.**
+
