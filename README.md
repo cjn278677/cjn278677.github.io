@@ -2,7 +2,7 @@
 Carl Justine R. Navarroza
 ## _The Renaisance, The Revival of the Forgoten Antiquity_
 ![alt text](https://alchetron.com/cdn/classical-antiquity-0fbe6be6-ec09-454b-af1d-f1fc07808a8-resize-750.jpeg)
-**What was the Renaissance? The Renaissance was a fervent period of European cultural, artistic, political and economic “rebirth” following the Middle Ages. Generally described as taking place from the 14th century to the 17th century, the Renaissance promoted the rediscovery of classical philosophy, literature and art.**
+What was the Renaissance? The Renaissance was a fervent period of European cultural, artistic, political and economic “rebirth” following the Middle Ages. Generally described as taking place from the 14th century to the 17th century, the Renaissance promoted the rediscovery of classical philosophy, literature and art.**
 ### _What was the Renaissance?_
 ![alt text](https://collectionapi.metmuseum.org/api/collection/v1/iiif/383095/741130/main-image)
 The Renaissance was a fervent period of European cultural, artistic, political and economic “rebirth” following the Middle Ages. Generally described as taking place from the 14th century to the 17th century, the Renaissance promoted the rediscovery of classical philosophy, literature and art. Some of the greatest thinkers, authors, statesmen, scientists and artists in human history thrived during this era, while global exploration opened up new lands and cultures to European commerce. The Renaissance is credited with bridging the gap between the Middle Ages and modern-day civilization.
